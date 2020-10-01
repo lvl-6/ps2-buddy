@@ -1,4 +1,9 @@
+## WIP ps2buddy v0.1
+
+Eventually this bot will be a mess of bugs and features, but for now it only contains
+a few test functions. I'm working on the API & parsing section right now before I deal
+with the actual bot code.
 
 
-Obligatory badge thing:
-![GitHub Repo Size](https://img.shields.io/github/repo-size/lvl-6/REPO_NAME_HERE)
+Cool badge thing here:
+![GitHub Repo Size](https://img.shields.io/github/repo-size/lvl-6/ps2-buddy)
