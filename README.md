@@ -6,4 +6,4 @@ with the actual bot code.
 
 
 Cool badge thing here:
-![GitHub Repo Size](https://img.shields.io/github/repo-size/lvl-6/ps2-buddy)
+![GitHub Repo Size](https://img.shields.io/github/commit-activity/w/lvl-6/ps2-buddy?color=00CC00&style=plastic)
