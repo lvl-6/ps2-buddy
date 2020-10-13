@@ -18,7 +18,7 @@ from discord.ext.commands import Bot as BotBase
 
 import lib.logging as logging
 
-version = '0.1'
+version = '0.1.2'
 bot_token = os.getenv('PS2BUDDY_TOKEN')
 
 
